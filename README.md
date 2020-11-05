@@ -6,14 +6,14 @@ This helped me find a fulltime job as a Frontend Developer and that's the start 
 
 Some of my active side projects include [Finders/Keepers](http://finderskeepers.pro) and [Podcast Chatterbox](https://pdocastchatterbox.com). You can check out more on my [personal website](https://rmanev.com).
 
-#### Technologies I currently like to use: 
-<img src="https://simpleicons.org/icons/html5.svg" width="24" height="24" style="margin-right: 2rem"/>
-<img src="https://simpleicons.org/icons/css3.svg" width="24" height="24" style="margin-right: 2rem"/>
-<img src="https://simpleicons.org/icons/javascript.svg" width="24" height="24" style="margin-right: 2rem"/>
-<img src="https://simpleicons.org/icons/react.svg" width="24" height="24" style="margin-right: 2rem"/>
-<img src="https://simpleicons.org/icons/angular.svg" width="24" height="24" style="margin-right: 2rem"/>
-<img src="https://simpleicons.org/icons/graphql.svg" width="24" height="24" style="margin-right: 2rem"/>
-<img src="https://simpleicons.org/icons/mongodb.svg" width="24" height="24" style="margin-right: 2rem"/>
+#### Technologies I currently like to use:
+<img src="https://simpleicons.org/icons/html5.svg" width="24" height="24"/>
+<img src="https://simpleicons.org/icons/css3.svg" width="24" height="24"/>
+<img src="https://simpleicons.org/icons/javascript.svg" width="24" height="24"/>
+<img src="https://simpleicons.org/icons/react.svg" width="24" height="24"/>
+<img src="https://simpleicons.org/icons/angular.svg" width="24" height="24"/>
+<img src="https://simpleicons.org/icons/graphql.svg" width="24" height="24"/>
+<img src="https://simpleicons.org/icons/mongodb.svg" width="24" height="24"/>
 <img src="https://simpleicons.org/icons/amazonaws.svg" width="24" height="24"/>
 
 #### Other places you can find me: 

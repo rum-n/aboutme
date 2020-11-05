@@ -14,9 +14,9 @@ Some of my active side projects include [Finders/Keepers](http://finderskeepers.
 <img src="https://simpleicons.org/icons/angular.svg" width="24" height="24" style="margin-right: 2rem"/>
 <img src="https://simpleicons.org/icons/graphql.svg" width="24" height="24" style="margin-right: 2rem"/>
 <img src="https://simpleicons.org/icons/mongodb.svg" width="24" height="24" style="margin-right: 2rem"/>
-<img src="https://simpleicons.org/icons/amazonaws.svg" width="24" height="24" style="margin-right: 2rem"/>
+<img src="https://simpleicons.org/icons/amazonaws.svg" width="24" height="24"/>
 
 #### Other places you can find me: 
 [<img src="https://simpleicons.org/icons/twitter.svg" width="24" height="24" style="margin-right: 2rem"/>](https://twitter.com/room_n)
 [<img src="https://simpleicons.org/icons/medium.svg" width="24" height="24" style="margin-right: 2rem"/>](https://medium.com/@room_n)
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="24" height="24" style="margin-right: 2rem"/>](https://linkedin.com/in/rmanev)
+[<img src="https://simpleicons.org/icons/linkedin.svg" width="24" height="24"/>](https://linkedin.com/in/rmanev)

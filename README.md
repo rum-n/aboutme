@@ -6,7 +6,7 @@ This helped me find a fulltime job as a Frontend Developer and that's the start 
 
 Some of my active side projects include [Finders/Keepers](http://finderskeepers.pro) and [Podcast Chatterbox](https://pdocastchatterbox.com). You can check out more on my [personal website](https://rmanev.com).
 
-####Technologies I currently like to use: 
+#### Technologies I currently like to use: 
 <img src="https://simpleicons.org/icons/html5.svg" width="24" height="24" style="margin-right: 2rem"/>
 <img src="https://simpleicons.org/icons/css3.svg" width="24" height="24" style="margin-right: 2rem"/>
 <img src="https://simpleicons.org/icons/javascript.svg" width="24" height="24" style="margin-right: 2rem"/>
@@ -16,7 +16,7 @@ Some of my active side projects include [Finders/Keepers](http://finderskeepers.
 <img src="https://simpleicons.org/icons/mongodb.svg" width="24" height="24" style="margin-right: 2rem"/>
 <img src="https://simpleicons.org/icons/amazonaws.svg" width="24" height="24" style="margin-right: 2rem"/>
 
-####Other places you can find me: 
+#### Other places you can find me: 
 [<img src="https://simpleicons.org/icons/twitter.svg" width="24" height="24" style="margin-right: 2rem"/>](https://twitter.com/room_n)
 [<img src="https://simpleicons.org/icons/medium.svg" width="24" height="24" style="margin-right: 2rem"/>](https://medium.com/@room_n)
 [<img src="https://simpleicons.org/icons/linkedin.svg" width="24" height="24" style="margin-right: 2rem"/>](https://linkedin.com/in/rmanev)

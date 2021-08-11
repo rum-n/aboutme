@@ -4,7 +4,7 @@ I spent the first 6 years of my career working both as as a Business Developer a
 
 This helped me find a fulltime job as a Frontend Developer and that's the start of my coding journey. 
 
-Some of my active side projects include [Finders/Keepers](http://finderskeepers.pro) and [Podcast Chatterbox](https://pdocastchatterbox.com). You can check out more on my [personal website](https://rmanev.com).
+You can check out more on my [personal website](https://rmanev.com).
 
 **Technologies I currently like to use:** <br/><br/>
 <img src="https://simpleicons.org/icons/html5.svg" width="24" height="24"/>
